@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/20.4.27/miui_HMNote5_20.4.27_0bdc4d616e_9.0.zip
+  ROM_URL: https://bigota.d.miui.com/20.4.29/miui_HMNote5_20.4.29_9ec49b89ba_9.0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
